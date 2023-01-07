@@ -1,0 +1,7 @@
+C:\Users\Usuario\Documents\MEUS PROJETOS\Projetos C#\Menu cadastro clientes\Menu cadastro clientes\bin\Debug\Menu cadastro clientes.exe.config
+C:\Users\Usuario\Documents\MEUS PROJETOS\Projetos C#\Menu cadastro clientes\Menu cadastro clientes\bin\Debug\Menu cadastro clientes.exe
+C:\Users\Usuario\Documents\MEUS PROJETOS\Projetos C#\Menu cadastro clientes\Menu cadastro clientes\bin\Debug\Menu cadastro clientes.pdb
+C:\Users\Usuario\Documents\MEUS PROJETOS\Projetos C#\Menu cadastro clientes\Menu cadastro clientes\obj\Debug\Menu cadastro clientes.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\MEUS PROJETOS\Projetos C#\Menu cadastro clientes\Menu cadastro clientes\obj\Debug\Menu cadastro clientes.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\MEUS PROJETOS\Projetos C#\Menu cadastro clientes\Menu cadastro clientes\obj\Debug\Menu cadastro clientes.exe
+C:\Users\Usuario\Documents\MEUS PROJETOS\Projetos C#\Menu cadastro clientes\Menu cadastro clientes\obj\Debug\Menu cadastro clientes.pdb
